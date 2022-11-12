@@ -1,0 +1,357 @@
+[2022-11-12T19:05:21.545+1100] {processor.py:154} INFO - Started process (PID=10047) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:05:21.546+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:05:21.546+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:05:21.546+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:05:21.559+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:05:21.577+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:05:21.577+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:05:21.599+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:05:21.598+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:05:21.622+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.080 seconds
+[2022-11-12T19:05:57.294+1100] {processor.py:154} INFO - Started process (PID=10117) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:05:57.295+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:05:57.296+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:05:57.295+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:05:57.308+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:05:57.334+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:05:57.333+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:05:57.348+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:05:57.348+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:05:57.367+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.077 seconds
+[2022-11-12T19:06:35.969+1100] {processor.py:154} INFO - Started process (PID=10155) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:06:35.974+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:06:35.975+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:06:35.974+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:06:35.985+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:06:36.010+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:06:36.010+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:06:36.023+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:06:36.023+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:06:36.045+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.079 seconds
+[2022-11-12T19:07:19.825+1100] {processor.py:154} INFO - Started process (PID=10199) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:07:19.827+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:07:19.828+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:07:19.828+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:07:19.846+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:07:19.881+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:07:19.881+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:07:19.898+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:07:19.898+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:07:19.921+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.099 seconds
+[2022-11-12T19:07:57.770+1100] {processor.py:154} INFO - Started process (PID=10237) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:07:57.771+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:07:57.772+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:07:57.772+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:07:57.784+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:07:57.810+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:07:57.810+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:07:57.825+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:07:57.825+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:07:57.850+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.083 seconds
+[2022-11-12T19:08:37.215+1100] {processor.py:154} INFO - Started process (PID=10275) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:08:37.220+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:08:37.221+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:08:37.220+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:08:37.234+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:08:37.260+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:08:37.260+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:08:37.279+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:08:37.278+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:08:37.303+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.091 seconds
+[2022-11-12T19:09:18.032+1100] {processor.py:154} INFO - Started process (PID=10313) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:09:18.037+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:09:18.038+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:09:18.038+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:09:18.051+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:09:18.075+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:09:18.075+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:09:18.091+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:09:18.091+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:09:18.118+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.088 seconds
+[2022-11-12T19:09:55.275+1100] {processor.py:154} INFO - Started process (PID=10359) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:09:55.280+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:09:55.281+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:09:55.281+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:09:55.294+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:09:55.323+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:09:55.323+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:09:55.339+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:09:55.339+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:09:55.365+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.092 seconds
+[2022-11-12T19:10:33.084+1100] {processor.py:154} INFO - Started process (PID=10397) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:10:33.089+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:10:33.090+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:10:33.090+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:10:33.103+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:10:33.136+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:10:33.136+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:10:33.151+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:10:33.151+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:10:33.178+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.096 seconds
+[2022-11-12T19:11:11.318+1100] {processor.py:154} INFO - Started process (PID=10435) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:11:11.320+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:11:11.320+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:11:11.320+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:11:11.339+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:11:11.381+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:11:11.381+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:11:11.408+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:11:11.408+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:11:11.440+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.124 seconds
+[2022-11-12T19:11:50.865+1100] {processor.py:154} INFO - Started process (PID=10473) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:11:50.870+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:11:50.871+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:11:50.871+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:11:50.883+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:11:50.907+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:11:50.907+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:11:50.921+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:11:50.921+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:11:50.944+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.081 seconds
+[2022-11-12T19:12:29.067+1100] {processor.py:154} INFO - Started process (PID=10511) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:12:29.069+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:12:29.069+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:12:29.069+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:12:29.082+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:12:29.113+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:12:29.113+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:12:29.129+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:12:29.129+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:12:29.153+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.088 seconds
+[2022-11-12T19:13:08.595+1100] {processor.py:154} INFO - Started process (PID=10549) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:13:08.598+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:13:08.599+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:13:08.599+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:13:08.620+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:13:08.692+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:13:08.692+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:13:08.748+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:13:08.748+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:13:08.792+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.202 seconds
+[2022-11-12T19:13:52.436+1100] {processor.py:154} INFO - Started process (PID=10587) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:13:52.445+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:13:52.446+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:13:52.446+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:13:52.464+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:13:52.501+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:13:52.500+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:13:52.524+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:13:52.524+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:13:52.559+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.126 seconds
+[2022-11-12T19:14:31.788+1100] {processor.py:154} INFO - Started process (PID=10625) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:14:31.793+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:14:31.794+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:14:31.794+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:14:31.810+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:14:31.841+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:14:31.841+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:14:31.860+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:14:31.860+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:14:31.885+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.100 seconds
+[2022-11-12T19:15:11.487+1100] {processor.py:154} INFO - Started process (PID=10663) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:15:11.490+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:15:11.491+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:15:11.491+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:15:11.514+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:15:11.559+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:15:11.559+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:15:11.584+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:15:11.584+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:15:11.617+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.135 seconds
+[2022-11-12T19:15:50.549+1100] {processor.py:154} INFO - Started process (PID=10701) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:15:50.552+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:15:50.553+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:15:50.552+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:15:50.569+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:15:50.611+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:15:50.611+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:15:50.636+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:15:50.636+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:15:50.666+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.121 seconds
+[2022-11-12T19:16:29.796+1100] {processor.py:154} INFO - Started process (PID=10739) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:16:29.800+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:16:29.801+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:16:29.801+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:16:29.812+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:16:29.835+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:16:29.835+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:16:29.848+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:16:29.848+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:16:29.872+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.080 seconds
+[2022-11-12T19:17:08.680+1100] {processor.py:154} INFO - Started process (PID=10777) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:17:08.685+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:17:08.686+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:17:08.686+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:17:08.698+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:17:08.720+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:17:08.720+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:17:08.734+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:17:08.734+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:17:08.762+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.083 seconds
+[2022-11-12T19:17:45.526+1100] {processor.py:154} INFO - Started process (PID=10815) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:17:45.530+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:17:45.531+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:17:45.531+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:17:45.541+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:17:45.565+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:17:45.565+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:17:45.579+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:17:45.579+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:17:45.608+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.085 seconds
+[2022-11-12T19:18:23.677+1100] {processor.py:154} INFO - Started process (PID=10853) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:18:23.682+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:18:23.683+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:18:23.683+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:18:23.694+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:18:23.717+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:18:23.717+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:18:23.732+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:18:23.732+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:18:23.757+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.083 seconds
+[2022-11-12T19:19:01.442+1100] {processor.py:154} INFO - Started process (PID=10891) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:19:01.447+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:19:01.447+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:19:01.447+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:19:01.460+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:19:01.490+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:19:01.489+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:19:01.505+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:19:01.505+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:19:01.529+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.089 seconds
+[2022-11-12T19:19:40.282+1100] {processor.py:154} INFO - Started process (PID=10929) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:19:40.285+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:19:40.285+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:19:40.285+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:19:40.300+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:19:40.326+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:19:40.326+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:19:40.341+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:19:40.341+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:19:40.361+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.081 seconds
+[2022-11-12T19:20:19.128+1100] {processor.py:154} INFO - Started process (PID=10967) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:20:19.130+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:20:19.131+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:20:19.131+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:20:19.158+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:20:19.200+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:20:19.199+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:20:19.223+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:20:19.223+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:20:19.251+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.138 seconds
+[2022-11-12T19:21:00.250+1100] {processor.py:154} INFO - Started process (PID=11005) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:21:00.252+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:21:00.254+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:21:00.253+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:21:00.277+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:21:00.328+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:21:00.328+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:21:00.359+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:21:00.359+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:21:00.387+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.146 seconds
+[2022-11-12T19:21:40.198+1100] {processor.py:154} INFO - Started process (PID=11043) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:21:40.199+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:21:40.200+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:21:40.200+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:21:40.212+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:21:40.240+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:21:40.240+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:21:40.259+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:21:40.259+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:21:40.283+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.088 seconds
+[2022-11-12T19:22:20.643+1100] {processor.py:154} INFO - Started process (PID=11081) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:22:20.649+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:22:20.649+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:22:20.649+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:22:20.661+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:22:20.685+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:22:20.685+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:22:20.700+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:22:20.700+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:22:20.821+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.181 seconds
+[2022-11-12T19:23:02.756+1100] {processor.py:154} INFO - Started process (PID=11119) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:23:02.761+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:23:02.762+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:23:02.761+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:23:02.773+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:23:02.801+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:23:02.800+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:23:02.914+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:23:02.914+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:23:02.940+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.187 seconds
+[2022-11-12T19:23:46.246+1100] {processor.py:154} INFO - Started process (PID=11157) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:23:46.251+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:23:46.252+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:23:46.252+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:23:46.267+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:23:46.291+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:23:46.291+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:23:46.396+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:23:46.396+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:23:46.417+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.174 seconds
+[2022-11-12T19:24:27.394+1100] {processor.py:154} INFO - Started process (PID=11195) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:24:27.399+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:24:27.400+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:24:27.400+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:24:27.413+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:24:27.539+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:24:27.539+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:24:27.554+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:24:27.554+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:24:27.576+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.185 seconds
+[2022-11-12T19:25:08.376+1100] {processor.py:154} INFO - Started process (PID=11233) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:25:08.377+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:25:08.378+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:25:08.378+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:25:08.395+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:25:08.534+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:25:08.534+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:25:08.548+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:25:08.548+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:25:08.569+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.196 seconds
+[2022-11-12T19:25:53.470+1100] {processor.py:154} INFO - Started process (PID=11271) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:25:53.475+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:25:53.476+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:25:53.476+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:25:53.495+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:25:53.621+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:25:53.621+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:25:53.633+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:25:53.633+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:25:53.652+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.185 seconds
+[2022-11-12T19:26:36.325+1100] {processor.py:154} INFO - Started process (PID=11309) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:26:36.330+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:26:36.332+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:26:36.331+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:26:36.465+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:26:36.487+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:26:36.487+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:26:36.501+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:26:36.501+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:26:36.529+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.207 seconds
+[2022-11-12T19:27:16.473+1100] {processor.py:154} INFO - Started process (PID=11347) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:27:16.478+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:27:16.479+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:27:16.479+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:27:16.491+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:27:16.518+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:27:16.518+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:27:16.534+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:27:16.534+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:27:16.654+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.184 seconds
+[2022-11-12T19:28:00.477+1100] {processor.py:154} INFO - Started process (PID=11385) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:28:00.479+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:28:00.479+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:28:00.479+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:28:00.491+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:28:00.516+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:28:00.516+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:28:00.621+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:28:00.621+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:28:00.644+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.169 seconds
+[2022-11-12T19:28:41.342+1100] {processor.py:154} INFO - Started process (PID=11423) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:28:41.344+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:28:41.344+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:28:41.344+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:28:41.357+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:28:41.381+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:28:41.381+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:28:41.491+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:28:41.491+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:28:41.514+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.174 seconds
+[2022-11-12T19:29:25.175+1100] {processor.py:154} INFO - Started process (PID=11461) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:29:25.180+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:29:25.181+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:29:25.181+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:29:25.195+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:29:25.225+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:29:25.225+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:29:25.336+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:29:25.336+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:29:25.356+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.184 seconds
+[2022-11-12T19:30:07.429+1100] {processor.py:154} INFO - Started process (PID=11499) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:30:07.435+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:30:07.435+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:30:07.435+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:30:07.449+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:30:07.572+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:30:07.572+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:30:07.586+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:30:07.586+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:30:07.611+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.184 seconds
+[2022-11-12T19:30:46.856+1100] {processor.py:154} INFO - Started process (PID=11537) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:30:46.858+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:30:46.858+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:30:46.858+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:30:46.871+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:30:46.993+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:30:46.993+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:30:47.007+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:30:47.007+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:30:47.031+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.178 seconds
+[2022-11-12T19:31:26.693+1100] {processor.py:154} INFO - Started process (PID=11575) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:31:26.695+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:31:26.695+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:31:26.695+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:31:26.709+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:31:26.827+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:31:26.827+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:31:26.840+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:31:26.840+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:31:26.870+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.180 seconds
+[2022-11-12T19:32:11.624+1100] {processor.py:154} INFO - Started process (PID=11620) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:32:11.629+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:32:11.630+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:32:11.630+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:32:11.644+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:32:11.676+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:32:11.676+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:32:11.693+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:32:11.693+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:32:11.833+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.211 seconds
+[2022-11-12T19:32:55.974+1100] {processor.py:154} INFO - Started process (PID=11674) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:32:55.987+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:32:55.989+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:32:55.988+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:32:56.054+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:32:56.122+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:32:56.121+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:32:56.353+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:32:56.352+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:32:56.387+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.418 seconds
+[2022-11-12T19:33:41.034+1100] {processor.py:154} INFO - Started process (PID=11714) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:33:41.040+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:33:41.040+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:33:41.040+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:33:41.052+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:33:41.077+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:33:41.077+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:33:41.213+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:33:41.213+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:33:41.234+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.202 seconds
+[2022-11-12T19:34:25.456+1100] {processor.py:154} INFO - Started process (PID=12117) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:34:25.458+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:34:25.459+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:34:25.459+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:34:25.479+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:34:25.519+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:34:25.519+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:34:25.673+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:34:25.673+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:34:25.707+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.255 seconds
+[2022-11-12T19:35:07.498+1100] {processor.py:154} INFO - Started process (PID=12275) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:35:07.503+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:35:07.503+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:35:07.503+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:35:07.515+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:35:07.639+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:35:07.639+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:35:07.657+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:35:07.657+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:35:07.691+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.196 seconds
+[2022-11-12T19:35:48.844+1100] {processor.py:154} INFO - Started process (PID=12316) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:35:48.849+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:35:48.850+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:35:48.849+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:35:48.863+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:35:48.999+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:35:48.999+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:35:49.014+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:35:49.013+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:35:49.037+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.195 seconds
+[2022-11-12T19:36:29.362+1100] {processor.py:154} INFO - Started process (PID=12363) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:36:29.367+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:36:29.368+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:36:29.367+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:36:29.379+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:36:29.496+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:36:29.496+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:36:29.507+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:36:29.507+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:36:29.534+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.174 seconds
+[2022-11-12T19:37:10.907+1100] {processor.py:154} INFO - Started process (PID=12401) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:37:10.912+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:37:10.913+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:37:10.913+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:37:10.926+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:37:10.952+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:37:10.952+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:37:10.967+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:37:10.967+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:37:11.085+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.181 seconds
+[2022-11-12T19:37:52.779+1100] {processor.py:154} INFO - Started process (PID=12440) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:37:52.784+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:37:52.784+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:37:52.784+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:37:52.795+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:37:52.822+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:37:52.822+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:37:52.929+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:37:52.929+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:37:52.955+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.179 seconds
+[2022-11-12T19:38:35.513+1100] {processor.py:154} INFO - Started process (PID=12479) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:38:35.519+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:38:35.519+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:38:35.519+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:38:35.532+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:38:35.556+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:38:35.555+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:38:35.670+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:38:35.669+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:38:35.696+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.185 seconds
+[2022-11-12T19:39:19.188+1100] {processor.py:154} INFO - Started process (PID=12547) to work on /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:39:19.193+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/test_etl_dag.py for tasks to queue
+[2022-11-12T19:39:19.193+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:39:19.193+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:39:19.208+1100] {processor.py:766} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/wintan/airflow/dags/test_etl_dag.py
+[2022-11-12T19:39:19.240+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:39:19.240+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:39:19.350+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:39:19.350+1100] {dag.py:3336} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-11-12T19:39:19.371+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/test_etl_dag.py took 0.186 seconds

@@ -1,0 +1,560 @@
+[2022-11-12T18:47:03.802+1100] {processor.py:154} INFO - Started process (PID=8830) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:47:03.803+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:47:03.804+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:47:03.804+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:47:03.828+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:47:03.858+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:47:03.858+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:47:03.893+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:47:03.892+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:47:03.928+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.132 seconds
+[2022-11-12T18:47:42.259+1100] {processor.py:154} INFO - Started process (PID=8910) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:47:42.260+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:47:42.261+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:47:42.261+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:47:42.277+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:47:42.308+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:47:42.308+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:47:42.329+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:47:42.329+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:47:42.349+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.094 seconds
+[2022-11-12T18:48:19.589+1100] {processor.py:154} INFO - Started process (PID=8947) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:48:19.594+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:48:19.594+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:48:19.594+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:48:19.607+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:48:19.631+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:48:19.631+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:48:19.646+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:48:19.645+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:48:19.673+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.087 seconds
+[2022-11-12T18:48:57.198+1100] {processor.py:154} INFO - Started process (PID=8984) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:48:57.200+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:48:57.200+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:48:57.200+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:48:57.216+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:48:57.246+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:48:57.246+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:48:57.269+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:48:57.269+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:48:57.291+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.096 seconds
+[2022-11-12T18:49:35.323+1100] {processor.py:154} INFO - Started process (PID=9021) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:49:35.325+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:49:35.326+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:49:35.326+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:49:35.342+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:49:35.368+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:49:35.368+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:49:35.388+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:49:35.387+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:49:35.413+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.093 seconds
+[2022-11-12T18:50:12.524+1100] {processor.py:154} INFO - Started process (PID=9067) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:50:12.529+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:50:12.529+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:50:12.529+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:50:12.543+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:50:12.560+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:50:12.560+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:50:12.578+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:50:12.578+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:50:12.602+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.081 seconds
+[2022-11-12T18:50:51.399+1100] {processor.py:154} INFO - Started process (PID=9104) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:50:51.400+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:50:51.401+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:50:51.400+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:50:51.415+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:50:51.441+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:50:51.441+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:50:51.459+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:50:51.458+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:50:51.487+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.091 seconds
+[2022-11-12T18:51:27.603+1100] {processor.py:154} INFO - Started process (PID=9142) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:51:27.608+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:51:27.609+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:51:27.609+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:51:27.623+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:51:27.648+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:51:27.648+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:51:27.666+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:51:27.666+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:51:27.691+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.090 seconds
+[2022-11-12T18:52:03.775+1100] {processor.py:154} INFO - Started process (PID=9179) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:52:03.780+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:52:03.780+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:52:03.780+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:52:03.794+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:52:03.823+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:52:03.823+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:52:03.843+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:52:03.843+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:52:03.866+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.093 seconds
+[2022-11-12T18:52:42.138+1100] {processor.py:154} INFO - Started process (PID=9216) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:52:42.140+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:52:42.141+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:52:42.141+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:52:42.154+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:52:42.179+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:52:42.179+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:52:42.196+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:52:42.196+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:52:42.219+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.083 seconds
+[2022-11-12T18:53:20.251+1100] {processor.py:154} INFO - Started process (PID=9254) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:53:20.252+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:53:20.252+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:53:20.252+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:53:20.265+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:53:20.288+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:53:20.288+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:53:20.304+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:53:20.304+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:53:20.331+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.083 seconds
+[2022-11-12T18:53:58.441+1100] {processor.py:154} INFO - Started process (PID=9291) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:53:58.446+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:53:58.446+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:53:58.446+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:53:58.460+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:53:58.485+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:53:58.484+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:53:58.501+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:53:58.500+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:53:58.527+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.089 seconds
+[2022-11-12T18:54:34.756+1100] {processor.py:154} INFO - Started process (PID=9330) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:54:34.761+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:54:34.761+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:54:34.761+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:54:34.778+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:54:34.806+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:54:34.806+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:54:34.822+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:54:34.822+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:54:34.847+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.094 seconds
+[2022-11-12T18:55:13.682+1100] {processor.py:154} INFO - Started process (PID=9368) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:55:13.686+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:55:13.687+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:55:13.687+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:55:13.709+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:55:13.743+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:55:13.742+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:55:13.774+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:55:13.774+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:55:13.803+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.125 seconds
+[2022-11-12T18:55:53.053+1100] {processor.py:154} INFO - Started process (PID=9405) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:55:53.061+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:55:53.062+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:55:53.062+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:55:53.077+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:55:53.107+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:55:53.107+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:55:53.124+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:55:53.124+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:55:53.145+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.096 seconds
+[2022-11-12T18:56:30.863+1100] {processor.py:154} INFO - Started process (PID=9443) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:56:30.868+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:56:30.869+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:56:30.869+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:56:30.884+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:56:30.919+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:56:30.919+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:56:30.941+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:56:30.941+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:56:30.966+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.106 seconds
+[2022-11-12T18:57:09.937+1100] {processor.py:154} INFO - Started process (PID=9480) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:57:09.942+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:57:09.943+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:57:09.943+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:57:09.955+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:57:09.978+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:57:09.977+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:57:09.992+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:57:09.992+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:57:10.016+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.081 seconds
+[2022-11-12T18:57:48.658+1100] {processor.py:154} INFO - Started process (PID=9517) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:57:48.660+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:57:48.661+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:57:48.661+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:57:48.675+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:57:48.703+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:57:48.703+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:57:48.720+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:57:48.720+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:57:48.745+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.090 seconds
+[2022-11-12T18:58:26.620+1100] {processor.py:154} INFO - Started process (PID=9554) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:58:26.625+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:58:26.625+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:58:26.625+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:58:26.646+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:58:26.680+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:58:26.680+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:58:26.704+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:58:26.704+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:58:26.733+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.117 seconds
+[2022-11-12T18:59:04.992+1100] {processor.py:154} INFO - Started process (PID=9591) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:59:04.996+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:59:04.997+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:59:04.997+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:59:05.010+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:59:05.033+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:59:05.033+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:59:05.048+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:59:05.048+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-10T12:00:00+00:00, run_after=2022-11-11T12:00:00+00:00
+[2022-11-12T18:59:05.072+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.083 seconds
+[2022-11-12T18:59:42.829+1100] {processor.py:154} INFO - Started process (PID=9630) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:59:42.834+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T18:59:42.835+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:59:42.834+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:59:42.848+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T18:59:42.871+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:59:42.871+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T18:59:42.888+1100] {logging_mixin.py:120} INFO - [2022-11-12T18:59:42.888+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T18:59:42.912+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.086 seconds
+[2022-11-12T19:00:20.871+1100] {processor.py:154} INFO - Started process (PID=9667) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:00:20.873+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:00:20.874+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:00:20.874+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:00:20.900+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:00:20.939+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:00:20.939+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:00:20.969+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:00:20.969+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:00:21.000+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.133 seconds
+[2022-11-12T19:00:57.929+1100] {processor.py:154} INFO - Started process (PID=9704) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:00:57.934+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:00:57.934+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:00:57.934+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:00:57.948+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:00:57.972+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:00:57.972+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:00:57.988+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:00:57.988+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:00:58.012+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.088 seconds
+[2022-11-12T19:01:32.806+1100] {processor.py:154} INFO - Started process (PID=9749) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:01:32.807+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:01:32.808+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:01:32.808+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:01:32.822+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:01:32.849+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:01:32.849+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:01:32.868+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:01:32.868+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:01:32.892+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.089 seconds
+[2022-11-12T19:02:09.951+1100] {processor.py:154} INFO - Started process (PID=9813) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:02:09.957+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:02:09.958+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:02:09.958+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:02:09.971+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:02:09.996+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:02:09.996+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:02:10.019+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:02:10.019+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:02:10.049+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.100 seconds
+[2022-11-12T19:02:47.239+1100] {processor.py:154} INFO - Started process (PID=9862) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:02:47.241+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:02:47.242+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:02:47.242+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:02:47.254+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:02:47.279+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:02:47.279+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:02:47.299+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:02:47.299+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:02:47.320+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.085 seconds
+[2022-11-12T19:03:26.910+1100] {processor.py:154} INFO - Started process (PID=9909) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:03:26.912+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:03:26.913+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:03:26.913+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:03:26.936+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:03:26.979+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:03:26.979+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:03:27.012+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:03:27.011+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:03:27.051+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.144 seconds
+[2022-11-12T19:04:09.153+1100] {processor.py:154} INFO - Started process (PID=9946) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:04:09.155+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:04:09.156+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:04:09.156+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:04:09.168+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:04:09.191+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:04:09.191+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:04:09.209+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:04:09.208+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:04:09.318+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.168 seconds
+[2022-11-12T19:04:49.426+1100] {processor.py:154} INFO - Started process (PID=9985) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:04:49.431+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:04:49.431+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:04:49.431+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:04:49.445+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:04:49.471+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:04:49.471+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:04:49.582+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:04:49.582+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:04:49.604+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.181 seconds
+[2022-11-12T19:05:22.732+1100] {processor.py:154} INFO - Started process (PID=10080) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:05:22.740+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:05:22.742+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:05:22.741+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:05:22.773+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:05:22.801+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:05:22.801+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:05:22.835+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:05:22.835+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:05:22.862+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.146 seconds
+[2022-11-12T19:05:58.452+1100] {processor.py:154} INFO - Started process (PID=10118) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:05:58.453+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:05:58.454+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:05:58.454+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:05:58.466+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:05:58.489+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:05:58.488+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:05:58.507+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:05:58.506+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:05:58.529+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.080 seconds
+[2022-11-12T19:06:37.120+1100] {processor.py:154} INFO - Started process (PID=10156) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:06:37.125+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:06:37.126+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:06:37.126+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:06:37.139+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:06:37.165+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:06:37.165+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:06:37.180+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:06:37.180+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:06:37.201+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.084 seconds
+[2022-11-12T19:07:21.063+1100] {processor.py:154} INFO - Started process (PID=10200) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:07:21.064+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:07:21.065+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:07:21.065+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:07:21.082+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:07:21.113+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:07:21.113+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:07:21.133+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:07:21.133+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:07:21.193+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.134 seconds
+[2022-11-12T19:07:58.928+1100] {processor.py:154} INFO - Started process (PID=10238) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:07:58.929+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:07:58.929+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:07:58.929+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:07:58.944+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:07:58.968+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:07:58.968+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:07:58.984+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:07:58.984+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:07:59.007+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.081 seconds
+[2022-11-12T19:08:38.350+1100] {processor.py:154} INFO - Started process (PID=10276) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:08:38.356+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:08:38.356+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:08:38.356+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:08:38.369+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:08:38.395+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:08:38.395+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:08:38.421+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:08:38.421+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:08:38.448+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.101 seconds
+[2022-11-12T19:09:19.167+1100] {processor.py:154} INFO - Started process (PID=10314) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:09:19.172+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:09:19.173+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:09:19.173+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:09:19.185+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:09:19.208+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:09:19.208+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:09:19.225+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:09:19.225+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:09:19.247+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.083 seconds
+[2022-11-12T19:09:56.411+1100] {processor.py:154} INFO - Started process (PID=10360) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:09:56.413+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:09:56.414+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:09:56.414+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:09:56.426+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:09:56.456+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:09:56.456+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:09:56.476+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:09:56.475+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:09:56.499+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.091 seconds
+[2022-11-12T19:10:33.565+1100] {processor.py:154} INFO - Started process (PID=10398) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:10:33.567+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:10:33.568+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:10:33.568+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:10:33.581+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:10:33.606+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:10:33.606+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:10:33.624+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:10:33.623+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:10:33.645+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.082 seconds
+[2022-11-12T19:11:12.613+1100] {processor.py:154} INFO - Started process (PID=10436) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:11:12.615+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:11:12.616+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:11:12.616+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:11:12.698+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:11:12.783+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:11:12.783+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:11:12.836+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:11:12.835+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:11:12.872+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.273 seconds
+[2022-11-12T19:11:51.797+1100] {processor.py:154} INFO - Started process (PID=10474) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:11:51.802+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:11:51.803+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:11:51.802+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:11:51.816+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:11:51.841+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:11:51.840+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:11:51.857+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:11:51.857+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:11:51.882+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.088 seconds
+[2022-11-12T19:12:30.205+1100] {processor.py:154} INFO - Started process (PID=10512) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:12:30.210+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:12:30.210+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:12:30.210+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:12:30.226+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:12:30.251+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:12:30.251+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:12:30.268+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:12:30.267+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:12:30.292+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.091 seconds
+[2022-11-12T19:13:09.834+1100] {processor.py:154} INFO - Started process (PID=10550) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:13:09.836+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:13:09.838+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:13:09.837+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:13:09.869+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:13:09.926+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:13:09.925+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:13:09.968+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:13:09.968+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:13:10.021+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.197 seconds
+[2022-11-12T19:13:53.683+1100] {processor.py:154} INFO - Started process (PID=10588) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:13:53.685+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:13:53.686+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:13:53.686+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:13:53.710+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:13:53.748+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:13:53.748+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:13:53.783+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:13:53.783+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:13:53.873+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.194 seconds
+[2022-11-12T19:14:33.029+1100] {processor.py:154} INFO - Started process (PID=10626) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:14:33.034+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:14:33.035+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:14:33.034+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:14:33.049+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:14:33.078+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:14:33.077+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:14:33.097+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:14:33.097+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:14:33.135+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.108 seconds
+[2022-11-12T19:15:12.678+1100] {processor.py:154} INFO - Started process (PID=10664) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:15:12.684+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:15:12.684+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:15:12.684+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:15:12.701+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:15:12.731+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:15:12.731+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:15:12.754+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:15:12.754+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:15:12.781+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.106 seconds
+[2022-11-12T19:15:51.796+1100] {processor.py:154} INFO - Started process (PID=10702) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:15:51.801+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:15:51.802+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:15:51.802+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:15:51.826+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:15:51.856+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:15:51.856+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:15:51.885+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:15:51.885+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:15:51.917+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.125 seconds
+[2022-11-12T19:16:30.935+1100] {processor.py:154} INFO - Started process (PID=10740) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:16:30.940+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:16:30.941+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:16:30.940+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:16:30.954+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:16:30.976+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:16:30.976+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:16:30.992+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:16:30.992+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:16:31.015+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.082 seconds
+[2022-11-12T19:17:09.824+1100] {processor.py:154} INFO - Started process (PID=10778) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:17:09.829+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:17:09.829+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:17:09.829+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:17:09.841+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:17:09.863+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:17:09.863+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:17:09.878+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:17:09.878+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:17:09.902+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.081 seconds
+[2022-11-12T19:17:46.574+1100] {processor.py:154} INFO - Started process (PID=10816) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:17:46.579+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:17:46.580+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:17:46.580+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:17:46.593+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:17:46.616+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:17:46.616+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:17:46.633+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:17:46.633+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:17:46.655+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.084 seconds
+[2022-11-12T19:18:24.818+1100] {processor.py:154} INFO - Started process (PID=10854) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:18:24.823+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:18:24.824+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:18:24.824+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:18:24.835+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:18:24.857+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:18:24.857+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:18:24.873+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:18:24.873+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:18:24.895+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.079 seconds
+[2022-11-12T19:19:02.578+1100] {processor.py:154} INFO - Started process (PID=10892) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:19:02.583+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:19:02.583+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:19:02.583+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:19:02.597+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:19:02.620+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:19:02.620+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:19:02.638+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:19:02.637+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:19:02.660+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.084 seconds
+[2022-11-12T19:19:41.435+1100] {processor.py:154} INFO - Started process (PID=10930) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:19:41.437+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:19:41.437+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:19:41.437+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:19:41.450+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:19:41.475+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:19:41.475+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:19:41.492+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:19:41.492+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:19:41.512+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.080 seconds
+[2022-11-12T19:20:20.387+1100] {processor.py:154} INFO - Started process (PID=10968) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:20:20.390+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:20:20.391+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:20:20.390+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:20:20.415+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:20:20.456+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:20:20.455+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:20:20.477+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:20:20.477+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:20:20.501+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.120 seconds
+[2022-11-12T19:21:01.490+1100] {processor.py:154} INFO - Started process (PID=11006) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:21:01.492+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:21:01.492+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:21:01.492+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:21:01.506+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:21:01.532+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:21:01.532+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:21:01.550+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:21:01.550+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:21:01.573+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.085 seconds
+[2022-11-12T19:21:40.377+1100] {processor.py:154} INFO - Started process (PID=11044) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:21:40.378+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:21:40.379+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:21:40.379+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:21:40.392+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:21:40.415+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:21:40.414+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:21:40.431+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:21:40.431+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:21:40.455+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.080 seconds
+[2022-11-12T19:22:21.879+1100] {processor.py:154} INFO - Started process (PID=11082) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:22:21.885+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:22:21.885+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:22:21.885+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:22:21.900+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:22:21.928+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:22:21.928+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:22:21.947+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:22:21.947+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:22:22.064+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.188 seconds
+[2022-11-12T19:23:03.542+1100] {processor.py:154} INFO - Started process (PID=11120) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:23:03.543+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:23:03.544+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:23:03.544+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:23:03.557+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:23:03.581+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:23:03.581+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:23:03.692+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:23:03.692+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:23:03.716+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.178 seconds
+[2022-11-12T19:23:46.530+1100] {processor.py:154} INFO - Started process (PID=11158) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:23:46.533+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:23:46.534+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:23:46.534+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:23:46.547+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:23:46.570+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:23:46.570+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:23:46.678+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:23:46.678+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:23:46.697+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.169 seconds
+[2022-11-12T19:24:28.640+1100] {processor.py:154} INFO - Started process (PID=11196) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:24:28.644+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:24:28.645+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:24:28.645+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:24:28.659+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:24:28.777+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:24:28.777+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:24:28.793+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:24:28.793+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:24:28.818+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.181 seconds
+[2022-11-12T19:25:09.619+1100] {processor.py:154} INFO - Started process (PID=11234) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:25:09.624+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:25:09.625+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:25:09.624+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:25:09.637+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:25:09.748+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:25:09.748+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:25:09.762+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:25:09.762+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:25:09.786+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.169 seconds
+[2022-11-12T19:25:54.712+1100] {processor.py:154} INFO - Started process (PID=11272) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:25:54.713+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:25:54.714+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:25:54.714+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:25:54.726+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:25:54.838+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:25:54.838+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:25:54.852+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:25:54.852+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:25:54.878+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.170 seconds
+[2022-11-12T19:26:37.304+1100] {processor.py:154} INFO - Started process (PID=11310) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:26:37.306+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:26:37.307+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:26:37.307+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:26:37.415+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:26:37.437+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:26:37.436+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:26:37.454+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:26:37.454+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:26:37.479+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.178 seconds
+[2022-11-12T19:27:17.711+1100] {processor.py:154} INFO - Started process (PID=11348) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:27:17.717+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:27:17.717+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:27:17.717+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:27:17.733+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:27:17.758+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:27:17.757+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:27:17.774+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:27:17.774+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:27:17.885+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.176 seconds
+[2022-11-12T19:28:01.711+1100] {processor.py:154} INFO - Started process (PID=11386) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:28:01.716+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:28:01.717+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:28:01.717+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:28:01.729+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:28:01.753+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:28:01.753+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:28:01.872+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:28:01.872+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:28:01.901+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.192 seconds
+[2022-11-12T19:28:42.581+1100] {processor.py:154} INFO - Started process (PID=11424) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:28:42.586+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:28:42.587+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:28:42.587+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:28:42.603+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:28:42.633+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:28:42.633+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:28:42.768+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:28:42.768+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:28:42.797+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.218 seconds
+[2022-11-12T19:29:25.424+1100] {processor.py:154} INFO - Started process (PID=11462) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:29:25.426+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:29:25.426+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:29:25.426+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:29:25.441+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:29:25.471+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:29:25.470+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:29:25.579+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:29:25.579+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:29:25.602+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.181 seconds
+[2022-11-12T19:30:08.688+1100] {processor.py:154} INFO - Started process (PID=11500) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:30:08.691+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:30:08.691+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:30:08.691+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:30:08.705+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:30:08.819+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:30:08.819+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:30:08.834+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:30:08.834+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:30:08.857+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.171 seconds
+[2022-11-12T19:30:48.094+1100] {processor.py:154} INFO - Started process (PID=11538) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:30:48.095+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:30:48.096+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:30:48.096+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:30:48.111+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:30:48.228+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:30:48.228+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:30:48.245+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:30:48.245+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:30:48.269+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.178 seconds
+[2022-11-12T19:31:27.110+1100] {processor.py:154} INFO - Started process (PID=11576) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:31:27.115+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:31:27.116+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:31:27.116+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:31:27.132+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:31:27.252+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:31:27.252+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:31:27.267+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:31:27.267+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:31:27.299+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.193 seconds
+[2022-11-12T19:32:12.935+1100] {processor.py:154} INFO - Started process (PID=11623) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:32:12.936+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:32:12.937+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:32:12.937+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:32:12.953+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:32:12.977+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:32:12.977+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:32:12.994+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:32:12.994+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:32:13.121+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.192 seconds
+[2022-11-12T19:32:57.539+1100] {processor.py:154} INFO - Started process (PID=11675) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:32:57.541+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:32:57.542+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:32:57.542+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:32:57.569+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:32:57.609+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:32:57.608+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:32:57.843+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:32:57.842+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:32:57.873+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.339 seconds
+[2022-11-12T19:33:42.370+1100] {processor.py:154} INFO - Started process (PID=11716) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:33:42.375+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:33:42.376+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:33:42.376+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:33:42.389+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:33:42.414+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:33:42.413+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:33:42.525+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:33:42.525+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:33:42.546+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.178 seconds
+[2022-11-12T19:34:26.827+1100] {processor.py:154} INFO - Started process (PID=12238) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:34:26.832+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:34:26.833+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:34:26.832+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:34:26.847+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:34:26.873+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:34:26.873+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:34:26.983+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:34:26.983+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:34:27.014+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.190 seconds
+[2022-11-12T19:35:08.757+1100] {processor.py:154} INFO - Started process (PID=12276) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:35:08.760+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:35:08.761+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:35:08.761+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:35:08.774+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:35:08.894+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:35:08.894+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:35:08.910+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:35:08.910+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:35:08.934+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.179 seconds
+[2022-11-12T19:35:49.784+1100] {processor.py:154} INFO - Started process (PID=12317) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:35:49.786+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:35:49.786+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:35:49.786+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:35:49.799+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:35:49.932+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:35:49.932+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:35:49.950+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:35:49.950+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:35:49.970+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.189 seconds
+[2022-11-12T19:36:30.600+1100] {processor.py:154} INFO - Started process (PID=12364) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:36:30.605+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:36:30.605+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:36:30.605+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:36:30.618+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:36:30.732+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:36:30.732+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:36:30.746+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:36:30.746+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:36:30.770+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.173 seconds
+[2022-11-12T19:37:12.141+1100] {processor.py:154} INFO - Started process (PID=12402) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:37:12.146+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:37:12.147+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:37:12.147+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:37:12.164+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:37:12.192+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:37:12.192+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:37:12.208+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:37:12.207+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:37:12.344+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.206 seconds
+[2022-11-12T19:37:53.129+1100] {processor.py:154} INFO - Started process (PID=12441) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:37:53.131+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:37:53.132+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:37:53.132+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:37:53.145+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:37:53.169+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:37:53.169+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:37:53.284+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:37:53.284+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:37:53.304+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.178 seconds
+[2022-11-12T19:38:36.753+1100] {processor.py:154} INFO - Started process (PID=12480) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:38:36.759+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:38:36.760+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:38:36.760+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:38:36.777+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:38:36.807+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:38:36.806+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:38:36.930+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:38:36.930+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:38:36.951+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.200 seconds
+[2022-11-12T19:39:20.000+1100] {processor.py:154} INFO - Started process (PID=12548) to work on /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:39:20.006+1100] {processor.py:756} INFO - Processing file /home/wintan/airflow/dags/dag_one.py for tasks to queue
+[2022-11-12T19:39:20.007+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:39:20.007+1100] {dagbag.py:537} INFO - Filling up the DagBag from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:39:20.022+1100] {processor.py:766} INFO - DAG(s) dict_keys(['hello_world']) retrieved from /home/wintan/airflow/dags/dag_one.py
+[2022-11-12T19:39:20.051+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:39:20.050+1100] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-11-12T19:39:20.162+1100] {logging_mixin.py:120} INFO - [2022-11-12T19:39:20.161+1100] {dag.py:3336} INFO - Setting next_dagrun for hello_world to 2022-11-11T12:00:00+00:00, run_after=2022-11-12T12:00:00+00:00
+[2022-11-12T19:39:20.184+1100] {processor.py:176} INFO - Processing /home/wintan/airflow/dags/dag_one.py took 0.187 seconds
